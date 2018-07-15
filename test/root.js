@@ -1,4 +1,4 @@
-global.expect = require('expect');
+eglobal.expect = require('expect');
 
 const jsdom = require('jsdom');
 const path = require('path');
